@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aprendendo_Java
 Meio q um caderno, só anotando oq eu aprendo;
 Só o básico mesmo;
